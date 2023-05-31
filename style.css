@@ -1,4 +1,19 @@
 .Title {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkorange;
     background-color: aqua;
+    font-size: 36px;
+}
+
+.list{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: greenyellow;
+    color: red;
+    font-size: 18px;
+}
+
+img {
+    border-radius: 8px;
+    max-height: 50%;
+    max-width: 50%;
 }
