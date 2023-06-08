@@ -11,6 +11,7 @@ li {
     color: darkorange;
     background-color: aqua;
     font-size: 36px;
+    text-decoration: underline;
 }
 
 .list{
@@ -31,4 +32,8 @@ p {
     display: inline-block;
     padding: 6px;
     margin: 1px;
+}
+
+h5 {
+    margin: 10px auto;
 }
